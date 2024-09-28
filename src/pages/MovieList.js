@@ -1,5 +1,4 @@
 import { useFetch } from "../hooks/useFetch";
-import { useEffect } from "react";
 import { Card } from "../components";
 import { useTitle } from "../hooks/useTitle";
 
